@@ -15,13 +15,15 @@ font-family: 'Domine', serif;
 
 }
 @media only screen and (max-width: 600px) {
-  intro {
+  .home {
   height: 2500px;
   }
-}
-
-
-}
+  .services {
+  height: 2500px;
+  }
+  .us {
+  height: 2500px;
+  }
 .intro{
 display: flex;
 flex-direction: column;
