@@ -11,8 +11,17 @@ body{text-align: center;}
 font-family: 'Domine', serif;
   font-size: 1rem;
 }
-.navbar{}
+.navbar {
 
+}
+@media only screen and (max-width: 600px) {
+  intro {
+  height: 2500px;
+  }
+}
+
+
+}
 .intro{
 display: flex;
 flex-direction: column;
